@@ -133,7 +133,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
 
           <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costume P5.js 2</span></h2>
-          this program alows the user to place blocks, the program then rembers wher those blocks were placed, and alows you to stack the blocks on top of eachother
+          this program alows the user to place blocks, the program then rembers wher those blocks were placed,
+          and alows you to stack the blocks on top of eachother
 
           
           <iframe src="https://editor.p5js.org/rubenbravolugo/embed/-IqjvgHHN" style="height: 300px; width: 450px;" ></iframe>
